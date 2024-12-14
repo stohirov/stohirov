@@ -13,7 +13,6 @@ Currently working at **Kommo**. Experienced with systems like **Billing**, **Tel
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
   <img src="https://img.shields.io/badge/Docker-%230081CB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
   <img src="https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge" />
   <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
