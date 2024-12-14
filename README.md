@@ -34,5 +34,5 @@ Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**
 - Exploring cloud-native technologies
 
 ### 📫 Contact
-- **GitHub:** [YourUsername](https://github.com/sukhrob-tokhirov)
+- **GitHub:** [Sukhrob](https://github.com/sukhrob-tokhirov)
 - **Email:** sukhrobtokhirov006@gmail.com
