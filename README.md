@@ -1,6 +1,6 @@
 # Hi, I'm Sukhrob 👋
 
-Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**, **NVoIP**, and **Google Sheets**.
+Currently working at **Kommo**. Experienced with systems like **Billing**, **Telephonia&SMS**, and **Import**.
 
 ---
 
