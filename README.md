@@ -29,4 +29,4 @@ Currently working at **Kommo**. Experienced with systems like **Billing**, **Tel
 
 ### 📫 Contact
 - **GitHub:** [sukhrob-tokhirov](https://github.com/sukhrob-tokhirov)
-- **Email:** sukhrobtokhirov006@gnmail.com
+- **Email:** sukhrobtokhirov006@gmail.com
