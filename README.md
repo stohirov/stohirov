@@ -1,31 +1,25 @@
-# Hi, I'm Sukhrob 👋
+# Hi, I'm [Sukhrob] 👋
 
 Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**, **NVoIP**, and **Google Sheets**.
 
 ---
 
+### 🛠️ Things I Code With
+
 <div align="center">
-<img src="https://img.shields.io/badge/Java-Expert-blue?style=flat&logo=java" alt="Java Badge" />
-<img src="https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?style=flat&logo=spring" alt="Spring Boot Badge" />
-<img src="https://img.shields.io/badge/Django-Intermediate-green?style=flat&logo=django" alt="Django Badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-Expert-blue?style=flat&logo=postgresql" alt="PostgreSQL Badge" />
-<img src="https://img.shields.io/badge/Docker-Advanced-blue?style=flat&logo=docker" alt="Docker Badge" />
-<img src="https://img.shields.io/badge/Redis-Intermediate-red?style=flat&logo=redis" alt="Redis Badge" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Science-blue?style=flat&logo=pandas" alt="Pandas Badge" />
-<img src="https://img.shields.io/badge/Nginx-Advanced-green?style=flat&logo=nginx" alt="Nginx Badge" />
+  <img src="https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Badge" />
+  <img src="https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Expert-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+  <img src="https://img.shields.io/badge/Docker-Advanced-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Redis-Intermediate-red?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Science-blue?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+  <img src="https://img.shields.io/badge/Nginx-Advanced-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge" />
+  <img src="https://img.shields.io/badge/Flask-Intermediate-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-Intermediate-blue?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/Git-Expert-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
 </div>
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java, Python, PHP
-- **Frameworks:** Spring Boot, Django, Flask, Laravel
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **DevOps:** Docker, Kubernetes, Nginx, Bash Scripting, Linux
-- **Tools:** JUnit, Git, GitHub
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Other Skills:** REST APIs, OAuth, RabbitMQ
 
 ---
 
@@ -34,5 +28,5 @@ Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**
 - Exploring cloud-native technologies
 
 ### 📫 Contact
-- **GitHub:** [Sukhrob](https://github.com/sukhrob-tokhirov)
-- **Email:** sukhrobtokhirov006@gmail.com
+- **GitHub:** [sukhrob-tokhirov](https://github.com/sukhrob-tokhirov)
+- **Email:** sukhrobtokhirov006@gnmail.com
