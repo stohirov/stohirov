@@ -19,6 +19,13 @@ Currently working at **Kommo**. Experienced with systems like **Billing**, **Tel
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23D62728?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge" />
+  <img src="https://img.shields.io/badge/Seaborn-%230092E6?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
 </div>
 
 ---
