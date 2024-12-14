@@ -5,20 +5,14 @@ Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**
 ---
 
 <div align="center">
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank">
-<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" />
-</a>
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme">
-<img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
-</a>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt">
-<img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-<img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" />
-</a>
+<img src="https://img.shields.io/badge/Java-Expert-blue?style=flat&logo=java" alt="Java Badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?style=flat&logo=spring" alt="Spring Boot Badge" />
+<img src="https://img.shields.io/badge/Django-Intermediate-green?style=flat&logo=django" alt="Django Badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-Expert-blue?style=flat&logo=postgresql" alt="PostgreSQL Badge" />
+<img src="https://img.shields.io/badge/Docker-Advanced-blue?style=flat&logo=docker" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/Redis-Intermediate-red?style=flat&logo=redis" alt="Redis Badge" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Science-blue?style=flat&logo=pandas" alt="Pandas Badge" />
+<img src="https://img.shields.io/badge/Nginx-Advanced-green?style=flat&logo=nginx" alt="Nginx Badge" />
 </div>
 
 ---
