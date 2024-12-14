@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sukhrob 👋
 
 Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**, **NVoIP**, and **Google Sheets**.
 
@@ -34,5 +34,5 @@ Currently working at **Kommo**. Experienced with systems like **Stripe**, **1C**
 - Exploring cloud-native technologies
 
 ### 📫 Contact
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-- **Email:** youremail@example.com
+- **GitHub:** [YourUsername](https://github.com/sukhrob-tokhirov)
+- **Email:** sukhrobtokhirov006@gmail.com
