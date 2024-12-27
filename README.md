@@ -34,5 +34,5 @@ Currently working at **Kommo**. Experienced with systems like **Billing**, **Tel
 - Exploring cloud-native technologies
 
 ### 📫 Contact
-- **GitHub:** [sukhrob-tokhirov](https://github.com/sukhrob-tokhirov)
+- **GitHub:** [sukhrob-developer](https://github.com/sukhrob-developer)
 - **Email:** sukhrobtokhirov006@gmail.com
