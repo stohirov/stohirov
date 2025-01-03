@@ -36,3 +36,19 @@ Currently working at **Kommo**. Experienced with systems like **Billing**, **Tel
 ### 📫 Contact
 - **GitHub:** [stohirov](https://github.com/stohirov)
 - **Email:** sukhrobtokhirov006@gmail.com
+
+<div style="width: 100%; overflow: hidden;">
+  <div style="display: flex; animation: scroll 10s linear infinite;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  </div>
+</div>
+
+<style>
+  @keyframes scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
