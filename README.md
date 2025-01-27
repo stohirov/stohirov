@@ -38,7 +38,7 @@ Currently working at **Kommo**. Experienced with systems like **Billing**, **Tel
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/4371d96f8974ec6e88a9f2b5271efae1ffebfe28817e101ff07a04a3dd2d75d3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stohirov&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </div>
 
 ---
