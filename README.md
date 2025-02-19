@@ -1,6 +1,11 @@
 # Hi, I'm Sukhrob 👋
 
-Currently at **Kommo**, I'm in **Production department** and on **Whatapp Cloud API** project
+### Expreience
+---
+Company: **Kommo**                                             
+Department: **Production**                                             
+Project: **Whatsapp Cloud API**                                                         
+Date: **Sep, 2024 - Current**
 
 ---
 
