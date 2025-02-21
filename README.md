@@ -17,7 +17,7 @@ Date: **Sep, 2024 - Current**
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
 
 ---
-### Interests 
+### Learning
 [![roadmap.sh](https://roadmap.sh/card/wide/67388428f20970fd4839d4f2?variant=light)](https://roadmap.sh)
 
 ---
