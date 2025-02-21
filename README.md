@@ -18,8 +18,7 @@ Date: **Sep, 2024 - Current**
 
 ---
 ### Interests 
-- Java/Kotlin
-- Cloud-distributed projects
+[![roadmap.sh](https://roadmap.sh/card/wide/67388428f20970fd4839d4f2?variant=light)](https://roadmap.sh)
 
 ---
 
