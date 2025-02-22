@@ -18,7 +18,7 @@ Date: **Sep, 2024 - Current**
 
 ---
 ### Learning
-[![roadmap.sh](https://roadmap.sh/card/wide/67b06d9f0a4602069b18defd?variant=light)](https://roadmap.sh)
+K8s, AWS
 
 ---
 
