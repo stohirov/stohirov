@@ -2,8 +2,7 @@
 
 ### Expreience
 ---
-Company: **Streetpark Systems**                                             
-Department: **Core**                                             
+Company: **Streetpark Systems**                                         
 Project: **Elec**                                                         
 Date: **June 2025 - Present**
 
