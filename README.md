@@ -2,10 +2,10 @@
 
 ### Expreience
 ---
-Company: **Kommo**                                             
-Department: **Production**                                             
-Project: **Whatsapp Cloud API**                                                         
-Date: **Sep, 2024 - Current**
+Company: **Streetpark Systems**                                             
+Department: **Core**                                             
+Project: **Elec**                                                         
+Date: **June 2025 - Present**
 
 ---
 
@@ -13,12 +13,8 @@ Date: **Sep, 2024 - Current**
 **Languages:** Java, JavaScript, PHP, Python  
 **Frameworks & Tools:** Spring Boot, Django, Flask                   
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**DevOps:** Docker, Kubernetes, Nginx, Ngrok  
+**DevOps:** Docker, Kubernetes, Nginx, Ngrok, AWS 
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
-
----
-### Learning
-K8s, AWS
 
 ---
 
