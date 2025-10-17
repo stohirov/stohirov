@@ -2,8 +2,8 @@
 
 ### Expreience
 ---
-Company: **Streetpark Systems**                                         
-Project: **Elec**                                                         
+Company: **Elec Romania**                                         
+Project: **Taxi App**                                                         
 Date: **June 2025 - Present**
 
 ---
